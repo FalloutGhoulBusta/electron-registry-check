@@ -35,6 +35,12 @@ To start the application in development mode:
 npm start
 ```
 
+## Screenshot
+
+![Application Screenshot](./screenshots/screenshot.png "Electron Registry Check Screenshot")
+
+> Note: Add your application screenshot and name it `screenshot.png` in the screenshot folder.
+
 ## Development
 
 ### Project Structure
